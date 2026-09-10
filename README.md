@@ -1651,7 +1651,7 @@
 - [BetrixDev/standard-rule-engine](https://github.com/BetrixDev/standard-rule-engine) - A type-safe rule engine using the Standard Schema for fact validation
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples in TypeScript, practical diagrams and unit tests ✅
-- [remvze-org/lowfi](https://github.com/remvze-org/lowfi) - 🎻 A SomaFM client for your terminal.
+- [remvze/lowfi](https://github.com/remvze/lowfi) - A SomaFM client for your terminal.
 - [ChrisRoyse/CodeGraph](https://github.com/ChrisRoyse/CodeGraph) - 
 - [gannonh/memento-mcp](https://github.com/gannonh/memento-mcp) - Memento MCP: A Knowledge Graph Memory System for LLMs
 - [stakwork/stakgraph](https://github.com/stakwork/stakgraph) - A source code parser using treesitter, LSP, and neo4j, powering software knowledge graphs for AI agents.
@@ -1980,7 +1980,7 @@
 - [jetify-com/typeid-js](https://github.com/jetify-com/typeid-js) - TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [singleportrait/a-pattern-language](https://github.com/singleportrait/a-pattern-language) - A directory and network for all patterns in A Pattern Language
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
+- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [redabacha/react-router-deno-template](https://github.com/redabacha/react-router-deno-template) - React Router v7 + Deno v2
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API

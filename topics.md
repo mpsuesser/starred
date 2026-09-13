@@ -3428,7 +3428,7 @@
 - [kousun12/semantic-algos](https://github.com/kousun12/semantic-algos) - aka "Why Combinators"
 - [agent-ecosystem/afdocs](https://github.com/agent-ecosystem/afdocs) - Test your docs against the Agent-Friendly Documentation Spec
 - [kitlangton/skills](https://github.com/kitlangton/skills) - Here are some skills I use. Maybe you'll find them useful. Maybe not. Goodbye.
-- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build a great interface.
+- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build great interfaces.
 - [joelhooks/grill-master](https://github.com/joelhooks/grill-master) - 🌭 find your way through the slop
 - [dataquail/functional-domain-driven-hexagon](https://github.com/dataquail/functional-domain-driven-hexagon) - 
 - [NolanGC/foldkit-alchemy-starter](https://github.com/NolanGC/foldkit-alchemy-starter) - A small starter repo for building full-stack applications with Foldkit and Alchemy.

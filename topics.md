@@ -508,6 +508,7 @@
 - [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder) - An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
 - [strands-agents/mcp-server](https://github.com/strands-agents/mcp-server) - This MCP server provides documentation about Strands Agents to your GenAI tools, so you can use your favorite AI coding assistant to vibe-code Strands Agents.
 - [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
@@ -3904,7 +3905,7 @@
 - [ptarau/recursors](https://github.com/ptarau/recursors) - Full Automation of Goal-driven LLM Dialog Threads with And-Or Recursors and Refiner Oracles
 - [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - Simulation platform for general-purpose robotics & embodied AI learning.
 - [coalton-lang/coalton](https://github.com/coalton-lang/coalton) - Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.
-- [gornskew/cyborg-whisperer](https://github.com/gornskew/cyborg-whisperer) - Receives, educates, and dispatches cyborgs into a starship or other facility
+- [gornskew/cyborg-whisperer](https://github.com/gornskew/cyborg-whisperer) - Cyborg Whisperer (formerly lisply-mcp): the gaming-language upstream. Looking for the plain-language fork? github.com/genworks/lisply-mcp
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [cosmos72/schemesh](https://github.com/cosmos72/schemesh) - A Unix shell and Lisp REPL, fused together
 - [bhauman/clojure-mcp](https://github.com/bhauman/clojure-mcp) - Clojure MCP
@@ -3965,7 +3966,6 @@
 - [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [iannuttall/claude-sessions](https://github.com/iannuttall/claude-sessions) - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation
 - [kentcdodds/cloudflare-fastmcp](https://github.com/kentcdodds/cloudflare-fastmcp) - 
 - [josharian/pex](https://github.com/josharian/pex) - pex makes piping easier
@@ -4005,7 +4005,7 @@
 - [hookdeck/event-destinations](https://github.com/hookdeck/event-destinations) - An initiative to support a new model for event interoperability between event producers and their consumers to favor better developer experience, robust integration, and infrastructural efficiency.
 - [solst-ice/chirp](https://github.com/solst-ice/chirp) - Send data with sound
 - [dmonad/lib0](https://github.com/dmonad/lib0) - Monorepo of isomorphic utility functions
-- [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
+- [blotcms/blot](https://github.com/blotcms/blot) - Turns a folder into a website
 - [thi-ng/monopub](https://github.com/thi-ng/monopub) - Lightweight & fast monorepo publish/release/changelog manager to automate releases using nothing more than Conventional Commits.
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [livekit-examples/outbound-caller-python](https://github.com/livekit-examples/outbound-caller-python) - An Agent that makes outbound calls using SIP and Dispatch APIs

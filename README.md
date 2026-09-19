@@ -1148,6 +1148,7 @@
 - [probelabs/probe](https://github.com/probelabs/probe) - AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.
 - [zkonduit/ezkl](https://github.com/zkonduit/ezkl) - ezkl is an engine for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML). Use it from Python, Javascript, or the command line.
 - [tf-encrypted/moose](https://github.com/tf-encrypted/moose) - Secure distributed dataflow framework for encrypted machine learning and data processing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [neferdata/allms](https://github.com/neferdata/allms) - allms: One Rust Library to rule them aLLMs
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -1346,11 +1347,11 @@
 - [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc) - Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-preserving summaries using pure extraction and formatting.
 - [hjanuschka/pi-multi-pass](https://github.com/hjanuschka/pi-multi-pass) - Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
-- [advaitpaliwal/feynman](https://github.com/advaitpaliwal/feynman) - The open source AI research agent.
+- [Companion-Inc/feynman](https://github.com/Companion-Inc/feynman) - The open source AI research agent.
 - [nicobailon/pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell) - Pi coding agent extension that allows Pi to autonomously control interactive CLIs in an observable overlay. Full PTY emulation, no  tmux, token efficient. User can take over anytime.
 - [burggraf/pi-teams](https://github.com/burggraf/pi-teams) - 
 - [marcfargas/pi-test-harness](https://github.com/marcfargas/pi-test-harness) - Test harness for pi extensions — playbook-based model mocking, session testing, sandbox install verification
-- [mugnavo/tanstarter-monorepo](https://github.com/mugnavo/tanstarter-monorepo) - Vite+ monorepo template with 🏝️ TanStack Start, Better Auth, Drizzle ORM, shadcn/ui
+- [mugnavo/cove-monorepo](https://github.com/mugnavo/cove-monorepo) - Vite+ monorepo template with 🏝️ TanStack Start, Better Auth, Drizzle ORM, shadcn/ui
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [zenobi-us/pi-extension-config](https://github.com/zenobi-us/pi-extension-config) - 
 - [cv/pi-ssh-remote](https://github.com/cv/pi-ssh-remote) - Pi extension that redirects all file operations and commands to a remote host via SSH
@@ -1617,7 +1618,7 @@
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [7ossamfarid/mcp-mindmesh](https://github.com/7ossamfarid/mcp-mindmesh) - Claude 3.7 Swarm with Field Coherence: A Model Context Protocol (MCP) server that orchestrates multiple specialized Claude 3.7 Sonnet instances in a quantum-inspired swarm. It creates a field coherenc
 - [leonardoraele/play-state](https://github.com/leonardoraele/play-state) - A JavaScript event-driven state management framework for games with the flexibility of ECS and the dynamism of Event-Driven systems.
-- [leonardoraele/signals](https://github.com/leonardoraele/signals) - My own implementation of JavaScript signals, with transparent control over effect scheduling.
+- [leonardoraele/signals](https://github.com/leonardoraele/signals) - A framework-agnostic implementation of JavaScript signals with transparent control over effect scheduling.
 - [middle-ages/effect-tree](https://github.com/middle-ages/effect-tree) - A strict tree datatype that wants to do everything.
 - [ssalbdivad/dood](https://github.com/ssalbdivad/dood) - David i am so sorry for peer pressuring you that as really bad of me
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -2143,7 +2144,6 @@
 - [DrJonBrock/luke-desktop](https://github.com/DrJonBrock/luke-desktop) - A modern desktop client for Claude AI with MCP server support, built with Tauri, React, and TypeScript.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [mckaywrigley/o1-xml-parser](https://github.com/mckaywrigley/o1-xml-parser) - 

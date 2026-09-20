@@ -256,7 +256,6 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
@@ -1239,6 +1238,7 @@
 
 ## TypeScript 
 
+- [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) - 
 - [doeixd/foldkit-plus](https://github.com/doeixd/foldkit-plus) - A Schema-first agent layer for Foldkit: project an application's Model and Message union into one contract, then expose it through WebMCP, MCP, or in-app agents.
 - [kitlangton/rolling-number](https://github.com/kitlangton/rolling-number) - Interruptible, locale-aware rolling numbers for the web. TypeScript core and React adapter.
 - [bjacobso/triplex](https://github.com/bjacobso/triplex) - An Effect-native fact database for applications that have to explain themselves.
@@ -1765,7 +1765,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [epicweb-dev/aster](https://github.com/epicweb-dev/aster) - 
 - [deepaktiwari09/DMS](https://github.com/deepaktiwari09/DMS) - Dealership Management System (DMS) for motorcycle dealerships - A comprehensive cloud-based system for managing dealership operations
@@ -2088,6 +2088,7 @@
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [oliver-oloughlin/kvdex](https://github.com/oliver-oloughlin/kvdex) - A high-level abstraction layer for Deno KV with zero third-party dependencies by default 🦕🗝️
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos

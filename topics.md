@@ -296,7 +296,7 @@
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
-- [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
+- [open-slide/open-slide](https://github.com/open-slide/open-slide) - A slide framework built for agents.
 - [cevr/gent](https://github.com/cevr/gent) - A gentle giant for agentic work. Minimal harness, maximal leverage.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
@@ -2750,7 +2750,7 @@
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) - A Neovim plugin for seamless, asynchronous project-wide TypeScript type-checking using the TypeScript compiler (tsc)
 - [aartaka/lamber](https://github.com/aartaka/lamber) - A functional scripting language compiling to pure Lambda Calculus
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2) - World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.
 
 ## mac 
@@ -2862,7 +2862,7 @@
 - [amantus-ai/llm-codes](https://github.com/amantus-ai/llm-codes) - Transform developer documentation to clean Markdown
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 - [wevm/vocs](https://github.com/wevm/vocs) - Minimal Docs for Agents & Humans.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
@@ -3597,7 +3597,7 @@
 - [erikshestopal/effect-inngest](https://github.com/erikshestopal/effect-inngest) - Build durable, type-safe workflows with Effect and Inngest
 - [cevr/effect-machine](https://github.com/cevr/effect-machine) - Schema-first state machines for Effect. Define once, derive everywhere, break nothing.
 - [tim-smart/lalph](https://github.com/tim-smart/lalph) - 
-- [Latitudes-Dev/shuvcode](https://github.com/Latitudes-Dev/shuvcode) - The AI coding agent built for the terminal - an unofficial fork of opencode.ai - sst/opencode
+- [shuv1337/shuvcode](https://github.com/shuv1337/shuvcode) - The AI coding agent built for the terminal - an unofficial fork of opencode.ai - sst/opencode
 - [jonesphillip/weft](https://github.com/jonesphillip/weft) - Task management, but AI agents do your tasks. Self-host on Cloudflare.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [vbgate/learn-opencode](https://github.com/vbgate/learn-opencode) - OpenCode 中文实战课源码与内容仓库：一课一页，覆盖入门到实战工作流。
@@ -3835,7 +3835,7 @@
 - [SKaplanOfficial/macOS-URL-Schemes-for-macOS-Applications](https://github.com/SKaplanOfficial/macOS-URL-Schemes-for-macOS-Applications) - URL schemes for macOS applications
 - [mizunashi-mana/claude-code-hook-sdk](https://github.com/mizunashi-mana/claude-code-hook-sdk) - A TypeScript SDK to write claude-code hooks easily with type safety, dependency injection, and comprehensive testing support.
 - [rileylemm/graphrag-hybrid](https://github.com/rileylemm/graphrag-hybrid) - Hybrid Neo4j/Qdrant retrieval system for structured Markdown documentation with YAML frontmatter. Combines graph relationships and vector search for enhanced document retrieval, with built-in MCP inte
-- [ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) - Methods for specifying, checking, typing, rendering, executing, analyzing, and visualizing state space models, for Active Inference and Beyond.
+- [ActiveInferenceInstitute/Generalized_Notation_Notation](https://github.com/ActiveInferenceInstitute/Generalized_Notation_Notation) - Methods for specifying, checking, typing, rendering, executing, analyzing, and visualizing state space models, for Active Inference and Beyond.
 - [BloopAI/debugger-mcp](https://github.com/BloopAI/debugger-mcp) - MCP server for interactive debugging
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [rpiplewar/vibewriting](https://github.com/rpiplewar/vibewriting) - 
@@ -4540,7 +4540,7 @@
 - [kitlangton/rolling-number](https://github.com/kitlangton/rolling-number) - Interruptible, locale-aware rolling numbers for the web. TypeScript core and React adapter.
 - [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agentic apps
 - [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
-- [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
+- [open-slide/open-slide](https://github.com/open-slide/open-slide) - A slide framework built for agents.
 - [gkurt/tegaki](https://github.com/gkurt/tegaki) - Handwriting animation for the web. Supports any font or text.
 - [aidenybai/element-source](https://github.com/aidenybai/element-source) - Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid, Preact
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.

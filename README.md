@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Agda](#agda)
 - [Assembly](#assembly)
 - [Astro](#astro)
@@ -59,6 +60,10 @@
 - [Zig](#zig)
 - [hoon](#hoon)
 - [jq](#jq)
+
+## Adblock Filter List 
+
+- [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) - An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements
 
 ## Agda 
 
@@ -833,7 +838,7 @@
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [rileylemm/graphrag-hybrid](https://github.com/rileylemm/graphrag-hybrid) - Hybrid Neo4j/Qdrant retrieval system for structured Markdown documentation with YAML frontmatter. Combines graph relationships and vector search for enhanced document retrieval, with built-in MCP inte
 - [BjornMelin/qdrant-neo4j-crawl4ai-mcp](https://github.com/BjornMelin/qdrant-neo4j-crawl4ai-mcp) - MCP server combining Qdrant vector search, Neo4j knowledge graphs, and Crawl4AI web intelligence with agentic RAG capabilities. FastMCP 2.0 architecture with enterprise security, monitoring, and Kuber
-- [ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) - Methods for specifying, checking, typing, rendering, executing, analyzing, and visualizing state space models, for Active Inference and Beyond.
+- [ActiveInferenceInstitute/Generalized_Notation_Notation](https://github.com/ActiveInferenceInstitute/Generalized_Notation_Notation) - Methods for specifying, checking, typing, rendering, executing, analyzing, and visualizing state space models, for Active Inference and Beyond.
 - [docxology/cognitive](https://github.com/docxology/cognitive) - Cognitive ecosystem framework pairing Active Inference agent models with an Obsidian-compatible markdown knowledge graph — generates executable Python from markdown specs, runs multi-agent simulations
 - [ActiveInferenceInstitute/cognitive](https://github.com/ActiveInferenceInstitute/cognitive) - Knowledge base and Python package for discrete and continuous Active Inference: generative models, expected free energy, POMDP simulation, and an executable manuscript with reproducible validation com
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -1178,7 +1183,6 @@
 - [vercel-labs/web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines) - Guidelines for building interfaces on the Web.
 - [samuelho-dev/dev-config](https://github.com/samuelho-dev/dev-config) - My personal dev configs with dot files, nix s3 caching and modules, terminal config, biome linting, and gritql enforcement.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) - An anticapitalist blocklist targeting websites abusing SEO tactics to spam web searches with data pollution and security risks: content farms, scrapers, copycats, generative AIs, scams, advertisements
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [milanglacier/Helix-Zellij-or-Tmux-AI-REPL-Workflow](https://github.com/milanglacier/Helix-Zellij-or-Tmux-AI-REPL-Workflow) - workflow integration for Helix, Zellij/Tmux, AI Code Completion, AI CLIs, and REPLs built around two minimal shell scripts with nearly zero dependencies.
@@ -1313,7 +1317,7 @@
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 - [EveryInc/product-launch-video](https://github.com/EveryInc/product-launch-video) - Claude Code skill + Remotion scaffold for building polished product launch videos.
-- [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
+- [open-slide/open-slide](https://github.com/open-slide/open-slide) - A slide framework built for agents.
 - [siebix-studio/effect-reusables](https://github.com/siebix-studio/effect-reusables) - Reusable effect stuff
 - [nicobailon/pi-interview-tool](https://github.com/nicobailon/pi-interview-tool) - Interactive form tool for pi-agent to gather user responses with keyboard navigation, themes, and image attachments
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
@@ -1425,7 +1429,7 @@
 - [erikshestopal/effect-inngest](https://github.com/erikshestopal/effect-inngest) - Build durable, type-safe workflows with Effect and Inngest
 - [cevr/effect-machine](https://github.com/cevr/effect-machine) - Schema-first state machines for Effect. Define once, derive everywhere, break nothing.
 - [tim-smart/lalph](https://github.com/tim-smart/lalph) - 
-- [Latitudes-Dev/shuvcode](https://github.com/Latitudes-Dev/shuvcode) - The AI coding agent built for the terminal - an unofficial fork of opencode.ai - sst/opencode
+- [shuv1337/shuvcode](https://github.com/shuv1337/shuvcode) - The AI coding agent built for the terminal - an unofficial fork of opencode.ai - sst/opencode
 - [jonesphillip/weft](https://github.com/jonesphillip/weft) - Task management, but AI agents do your tasks. Self-host on Cloudflare.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [different-ai/opencode-browser](https://github.com/different-ai/opencode-browser) - OpenCode plugin to automate Chrome. Inspired by Claude in Chrome.
@@ -1786,7 +1790,7 @@
 - [PaulJPhilp/buddy](https://github.com/PaulJPhilp/buddy) - The refactored buddybuilder
 - [PaulJPhilp/EffectiveAgent](https://github.com/PaulJPhilp/EffectiveAgent) - 
 - [phuctm97/modelfetch](https://github.com/phuctm97/modelfetch) - Runtime-agnostic TypeScript/JavaScript SDK for MCP Servers
-- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [waldzellai/mcp-agent-ts](https://github.com/waldzellai/mcp-agent-ts) - TypeScript port of the original MCP Agent framework by lastmile-ai
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation

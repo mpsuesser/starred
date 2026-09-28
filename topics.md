@@ -635,6 +635,7 @@
 - [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) - Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use) - 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
+- [agent-ecosystem/afdocs](https://github.com/agent-ecosystem/afdocs) - Test your docs against the Agent-Friendly Documentation Spec
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [Stunspot/stunspots-guide-to-ai-systems](https://github.com/Stunspot/stunspots-guide-to-ai-systems) - Operational doctrine for practical AI systems design.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1814,6 +1815,7 @@
 
 ## documentation 
 
+- [agent-ecosystem/afdocs](https://github.com/agent-ecosystem/afdocs) - Test your docs against the Agent-Friendly Documentation Spec
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
@@ -3471,7 +3473,6 @@
 - [humanlayer/fold](https://github.com/humanlayer/fold) - Fold is an Effect-native, provider-agnostic, isomorphic agent core with an optional opinionated coding agent, CLI, and TUI. It supports multiple model providers (including openai/anthropic-compatible 
 - [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 - [kousun12/semantic-algos](https://github.com/kousun12/semantic-algos) - aka "Why Combinators"
-- [agent-ecosystem/afdocs](https://github.com/agent-ecosystem/afdocs) - Test your docs against the Agent-Friendly Documentation Spec
 - [kitlangton/skills](https://github.com/kitlangton/skills) - Here are some skills I use. Maybe you'll find them useful. Maybe not. Goodbye.
 - [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build great interfaces.
 - [joelhooks/grill-master](https://github.com/joelhooks/grill-master) - 🌭 find your way through the slop
@@ -5223,6 +5224,7 @@
 
 ## testing 
 
+- [agent-ecosystem/afdocs](https://github.com/agent-ecosystem/afdocs) - Test your docs against the Agent-Friendly Documentation Spec
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web and terminal UIs
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node

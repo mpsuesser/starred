@@ -336,6 +336,7 @@
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
+- [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [kunchenguid/kunchenguid-design-system](https://github.com/kunchenguid/kunchenguid-design-system) - A consistent design system for my content
 - [kunchenguid/harness-exam](https://github.com/kunchenguid/harness-exam) - 
@@ -1350,7 +1351,6 @@
 - [pipecat-ai/gradient-bang](https://github.com/pipecat-ai/gradient-bang) - Gradient Bang is an online multiplayer universe where you explore, trade, battle, and collaborate with other players and with LLMs
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [gustavonline/pi-desktop](https://github.com/gustavonline/pi-desktop) - Native desktop shell for Pi Coding Agent (Tauri + Lit), extension-first and multi-session aware
-- [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [0xKobold/pi-gateway](https://github.com/0xKobold/pi-gateway) - 
 - [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc) - Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-preserving summaries using pure extraction and formatting.
 - [hjanuschka/pi-multi-pass](https://github.com/hjanuschka/pi-multi-pass) - Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)

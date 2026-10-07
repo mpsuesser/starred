@@ -1729,7 +1729,7 @@
 - [codexstar69/pi-lcm](https://github.com/codexstar69/pi-lcm) - Lossless Context Management for Pi. DAG-based summarization with full history recovery.
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.
-- [arach/vox](https://github.com/arach/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
+- [hudsonkit/vox](https://github.com/hudsonkit/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
 - [DannyMac180/openclaw-operator](https://github.com/DannyMac180/openclaw-operator) - OpenClaw Operator gives coding agents like Codex and Claude Code the context and playbooks needed to set up, validate, and troubleshoot a local OpenClaw installation.
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
@@ -1862,6 +1862,7 @@
 
 ## electron 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [XimilalaXiang/DeLive](https://github.com/XimilalaXiang/DeLive) - System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summary/chat/mindmap, Open API, MCP server, and Agent Skill.
 - [hydro13/tandem-browser](https://github.com/hydro13/tandem-browser) - AI-Human symbiotic browser — browse the web as one entity
@@ -2617,6 +2618,7 @@
 
 ## linux 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [XimilalaXiang/DeLive](https://github.com/XimilalaXiang/DeLive) - System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summary/chat/mindmap, Open API, MCP server, and Agent Skill.
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
@@ -2851,6 +2853,7 @@
 
 ## macos 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jfarcand/mirroir-mcp](https://github.com/jfarcand/mirroir-mcp) - MCP server for controlling a real iPhone via macOS iPhone Mirroring...and any MacOs app. Screenshot, tap, swipe, type — from any MCP client.
 - [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use) - 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
@@ -2858,7 +2861,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration.
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
-- [arach/vox](https://github.com/arach/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
+- [hudsonkit/vox](https://github.com/hudsonkit/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
 - [jackielii/skhd.zig](https://github.com/jackielii/skhd.zig) - Simple Hotkey Daemon for macOS, ported from skhd by asmvik
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
@@ -3348,6 +3351,7 @@
 
 ## open-source 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [hyun06000/AIL-old](https://github.com/hyun06000/AIL-old) - A programming language designed for AI as the primary author of code
 - [ncounterspecialist/twick](https://github.com/ncounterspecialist/twick) - AI-powered video editor SDK built with React. Features canvas timeline, drag-and-drop editing, AI captions, and serverless MP4 export. Perfect for building custom video apps.
@@ -3463,6 +3467,8 @@
 
 ## others 
 
+- [elder-plinius/V3SP3R](https://github.com/elder-plinius/V3SP3R) - AI Flipper control
+- [cloudflare/forge](https://github.com/cloudflare/forge) - 
 - [disler/ten-levels-of-jev](https://github.com/disler/ten-levels-of-jev) - Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own
 - [extend-hq/jevbox](https://github.com/extend-hq/jevbox) - 
 - [ericzakariasson/gloss](https://github.com/ericzakariasson/gloss) - Personalize any website with a prompt. A floating orb screenshots the page, asks Grok, and streams new CSS onto it live.
@@ -3650,7 +3656,7 @@
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate.
 - [zhangyanxs/repo2skill](https://github.com/zhangyanxs/repo2skill) - Repository to Skill Converter
 - [IgorWarzocha/Opencode-Workflows](https://github.com/IgorWarzocha/Opencode-Workflows) - An ever evolving repository of Opencode workflow examples that might enhance your experience with it. I only left the stuff that actually works. YMMV.
-- [HazelChat/hazel](https://github.com/HazelChat/hazel) - 
+- [MapleTechLabs/hazel](https://github.com/MapleTechLabs/hazel) - 
 - [erayack/effect-gpt](https://github.com/erayack/effect-gpt) - A transformer-based LLM built from scratch with Effect
 - [erikshestopal/effect-inngest](https://github.com/erikshestopal/effect-inngest) - Build durable, type-safe workflows with Effect and Inngest
 - [cevr/effect-machine](https://github.com/cevr/effect-machine) - Schema-first state machines for Effect. Define once, derive everywhere, break nothing.
@@ -5101,7 +5107,7 @@
 - [jfarcand/mirroir-mcp](https://github.com/jfarcand/mirroir-mcp) - MCP server for controlling a real iPhone via macOS iPhone Mirroring...and any MacOs app. Screenshot, tap, swipe, type — from any MCP client.
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex.
-- [arach/vox](https://github.com/arach/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
+- [hudsonkit/vox](https://github.com/hudsonkit/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
@@ -5347,7 +5353,7 @@
 - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Build Stripe billing without the glue code. Products in code, webhooks handled, billing state in your app.
 - [mpsuesser/effect-autoagent](https://github.com/mpsuesser/effect-autoagent) - Framework for building, optimizing, and deploying AI agents as Effect services. Define an agent as a declarative blueprint. Run it against benchmarks.
 - [mpsuesser/effect-oxlint](https://github.com/mpsuesser/effect-oxlint) - Write oxlint custom lint rules with Effect v4
-- [arach/vox](https://github.com/arach/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
+- [hudsonkit/vox](https://github.com/hudsonkit/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [hydro13/tandem-browser](https://github.com/hydro13/tandem-browser) - AI-Human symbiotic browser — browse the web as one entity
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
@@ -5752,6 +5758,7 @@
 
 ## windows 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [XimilalaXiang/DeLive](https://github.com/XimilalaXiang/DeLive) - System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summary/chat/mindmap, Open API, MCP server, and Agent Skill.
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.

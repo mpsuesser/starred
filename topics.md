@@ -357,7 +357,7 @@
 ## agents 
 
 - [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agentic apps
-- [kentcdodds/kody](https://github.com/kentcdodds/kody) - 🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.
+- [kentcdodds/kody](https://github.com/kentcdodds/kody) - 🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.
 - [llblab/pi-actors](https://github.com/llblab/pi-actors) - Local Actor Kernel for Pi
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
 - [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
@@ -2953,7 +2953,7 @@
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-- [kentcdodds/kody](https://github.com/kentcdodds/kody) - 🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.
+- [kentcdodds/kody](https://github.com/kentcdodds/kody) - 🐨 Your agents' cloud — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.
 - [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [zosmaai/pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki) - Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Format (OKF) v0.2.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.

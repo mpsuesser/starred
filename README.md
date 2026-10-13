@@ -134,7 +134,6 @@
 ## CSS 
 
 - [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [sindresorhus/css-extras](https://github.com/sindresorhus/css-extras) - Useful CSS custom functions using the new @​function rule
 - [prabhu30/blurry-loading](https://github.com/prabhu30/blurry-loading) - An effect where a blur image loads as the text on top of it goes from 0 to 100
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
@@ -295,6 +294,7 @@
 - [mitsuhiko/talks](https://github.com/mitsuhiko/talks) - Talks I gave over the years as PDF.
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
+- [ActiveInferenceInstitute/Generalized_Notation_Notation](https://github.com/ActiveInferenceInstitute/Generalized_Notation_Notation) - Methods for specifying, checking, typing, rendering, executing, analyzing, and visualizing state space models, for Active Inference and Beyond.
 - [frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness
 - [UniMath/SymmetryBook](https://github.com/UniMath/SymmetryBook) - This book will be a textbook written in the univalent style, taking advantage of the presence of symmetry in the logic at an early stage.
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - The Power of Prolog: Introduction to modern Prolog
@@ -354,6 +354,7 @@
 - [lokus-ai/lokus](https://github.com/lokus-ai/lokus) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 - [cierelabs/json-complete](https://github.com/cierelabs/json-complete) - A JSON alternative that retains references, handles circular dependencies, and encodes almost every data type available to standard JavaScript.
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 - [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [apache/couchdb-nano](https://github.com/apache/couchdb-nano) - Nano: The official Apache CouchDB library for Node.js
 - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface.
@@ -709,8 +710,8 @@
 - [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products.
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
-- [lutzh/awesome-event-driven-architecture](https://github.com/lutzh/awesome-event-driven-architecture) - Read-only mirror of https://codeberg.org/lutzh/awesome-event-driven-architecture
-- [iborduchi/awesome-permacomputing](https://github.com/iborduchi/awesome-permacomputing) - A curation of resources, projects, and communities related to permacomputing.
+- [lutzh/awesome-event-driven-architecture](https://github.com/lutzh/awesome-event-driven-architecture) - A curated list of resources on event-driven architecture.
+- [isamorph/awesome-permacomputing](https://github.com/isamorph/awesome-permacomputing) - A curation of resources, projects, and communities related to permacomputing.
 - [atkirtland/awesome-computational-geometry](https://github.com/atkirtland/awesome-computational-geometry) - A curated list of awesome computational geometry visualizations, frameworks, and resources
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
 - [ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design) - A collection of bookmarks, resources, articles for product designers.
@@ -785,7 +786,7 @@
 - [thirdlayerinc/autoagent](https://github.com/thirdlayerinc/autoagent) - autonomous harness engineering
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-- [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 120-tool MCP server for real-time global intelligence: markets, SEC filings, conflict, military, cyber, climate, news, and 30+ domains. AI situation briefs that cite their sources, user-defined geofen
+- [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 139-tool MCP server for real-time global intelligence from free public APIs: markets, SEC filings, conflict, military, aircraft-cohort early warning, refugee and migration flows, cyber, climate, news,
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [IgorWarzocha/Opencode-Workflows](https://github.com/IgorWarzocha/Opencode-Workflows) - An ever evolving repository of Opencode workflow examples that might enhance your experience with it. I only left the stuff that actually works. YMMV.
 - [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - The agent that turns websites into APIs!
@@ -841,10 +842,9 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [BjornMelin/ai-docs-vector-db-hybrid-scraper](https://github.com/BjornMelin/ai-docs-vector-db-hybrid-scraper) - Retrieval-augmented docs ingestion stack: Firecrawl + Crawl4AI + Qdrant vector search with FastAPI and MCP interfaces for AI engineers.
 - [BjornMelin/codeforge](https://github.com/BjornMelin/codeforge) - 🤖 CodeForge AI: An autonomous multi-agent coding system powered by LangGraph for agentic software development and automated workflows. SOTA custom agentic GraphRag, shared-state memory, auto-model rou
-- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Cloud Software Factory
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [rileylemm/graphrag-hybrid](https://github.com/rileylemm/graphrag-hybrid) - Hybrid Neo4j/Qdrant retrieval system for structured Markdown documentation with YAML frontmatter. Combines graph relationships and vector search for enhanced document retrieval, with built-in MCP inte
 - [BjornMelin/qdrant-neo4j-crawl4ai-mcp](https://github.com/BjornMelin/qdrant-neo4j-crawl4ai-mcp) - MCP server combining Qdrant vector search, Neo4j knowledge graphs, and Crawl4AI web intelligence with agentic RAG capabilities. FastMCP 2.0 architecture with enterprise security, monitoring, and Kuber
-- [ActiveInferenceInstitute/Generalized_Notation_Notation](https://github.com/ActiveInferenceInstitute/Generalized_Notation_Notation) - Methods for specifying, checking, typing, rendering, executing, analyzing, and visualizing state space models, for Active Inference and Beyond.
 - [docxology/cognitive](https://github.com/docxology/cognitive) - Cognitive ecosystem framework pairing Active Inference agent models with an Obsidian-compatible markdown knowledge graph — generates executable Python from markdown specs, runs multi-agent simulations
 - [ActiveInferenceInstitute/cognitive](https://github.com/ActiveInferenceInstitute/cognitive) - Knowledge base and Python package for discrete and continuous Active Inference: generative models, expected free energy, POMDP simulation, and an executable manuscript with reproducible validation com
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -893,7 +893,7 @@
 - [simedw/spegel](https://github.com/simedw/spegel) - Spegel - Reflect the web through AI
 - [Ragha02/Deep_rsrch_Gemini](https://github.com/Ragha02/Deep_rsrch_Gemini) - Multi Agent MCP - GEMINI Llm Setiup Deep Research Model
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
-- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - Excel MCP server: let AI (Claude, Cursor, VS Code) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required.
+- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - Excel MCP server: let AI (Claude, Cursor, Codex) create and edit Excel files with charts, PivotTables, slicers and formulas. No Excel required.
 - [ruvnet/yyz-agentics-june](https://github.com/ruvnet/yyz-agentics-june) - AI-Powered Neural Network Libraries built with Claude-Flow Swarm Orchestration. Live demo from Agentics   Foundation meetup in Toronto - showcasing how 10 specialized AI agents built production-ready 
 - [bbugyi200/funky](https://github.com/bbugyi200/funky) - Funky takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
 - [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding 
@@ -1256,7 +1256,7 @@
 - [kitlangton/justice](https://github.com/kitlangton/justice) - A small paragraph justification engine and typography playground
 - [doeixd/discern](https://github.com/doeixd/discern) - Craft Type-Safe Uncertainty-aware semantic pattern matching, control flow, and smart procedures for Effect DecisionModel and Jev
 - [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) - 
-- [doeixd/foldkit-plus](https://github.com/doeixd/foldkit-plus) - A Schema-first agent layer for Foldkit: project an application's Model and Message union into one contract, then expose it through WebMCP, MCP, or in-app agents.
+- [doeixd/foldkit-plus](https://github.com/doeixd/foldkit-plus) - Foldkit Plus: packages for Foldkit apps. Server data (Remote), local-first sync, routing (Site), SSR, forms, CRUD, a CMS, rich text, a page builder, and AI agents over MCP and WebMCP.
 - [kitlangton/rolling-number](https://github.com/kitlangton/rolling-number) - Interruptible, locale-aware rolling numbers for the web. TypeScript core and React adapter.
 - [bjacobso/triplex](https://github.com/bjacobso/triplex) - An Effect-native fact database for applications that have to explain themselves.
 - [yielded-dev/agent](https://github.com/yielded-dev/agent) - Yielded Agent: an agent harness toolkit for TypeScript, built on Effect and Effect AI.
@@ -1271,7 +1271,7 @@
 - [mac-monet/effect-domain](https://github.com/mac-monet/effect-domain) - Effect-native single source of truth for your API
 - [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first.
 - [Aniket-508/foldocs](https://github.com/Aniket-508/foldocs) - The beautiful & flexible Foldkit docs framework.
-- [andrueandersoncs/better-typescript](https://github.com/andrueandersoncs/better-typescript) - A focused TypeScript linter CLI built on the compiler API
+- [andrueandersoncs/better-typescript](https://github.com/andrueandersoncs/better-typescript) - A modern, agentic, type-aware TypeScript linter built on tsgo and Jev
 - [kitlangton/opencode-plugins](https://github.com/kitlangton/opencode-plugins) - Personal plugins for OpenCode V2
 - [typeonce-dev/effect-machine](https://github.com/typeonce-dev/effect-machine) - Schema-first state machines and statecharts for Effect
 - [Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-) - 
@@ -1500,7 +1500,7 @@
 - [bluwy/npm-userscript](https://github.com/bluwy/npm-userscript) - Various improvements and fixes for npmjs.com
 - [PaulJPhilp/McLuhan](https://github.com/PaulJPhilp/McLuhan) - 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
-- [slopus/happy](https://github.com/slopus/happy) - Happy is the open-source desktop app for Claude Code, Codex, and Grok, with an iOS and Android app to control your coding agents from anywhere.
+- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [mustafa0x/vite-plugin-domain](https://github.com/mustafa0x/vite-plugin-domain) - Zero-config, HTTPS localhost domains for vite apps
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
@@ -1684,7 +1684,7 @@
 - [BjornMelin/stardex](https://github.com/BjornMelin/stardex) - 🌟 Stardex: Explore GitHub Stars Intelligently. Stardex is a powerful web app that lets you search, filter, and cluster any GitHub user's starred repositories. Discover hidden patterns and find your ne
 - [BloopAI/debugger-mcp](https://github.com/BloopAI/debugger-mcp) - MCP server for interactive debugging
 - [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [neo4j/cypher-builder](https://github.com/neo4j/cypher-builder) - A library for building Cypher queries for Neo4j programmatically.
@@ -1979,7 +1979,7 @@
 - [victorwelander/shadcn-dialog](https://github.com/victorwelander/shadcn-dialog) - A dialog stacking component
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
-- [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
+- [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 - [VapiAI/mcp-server](https://github.com/VapiAI/mcp-server) - Vapi MCP Server
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz

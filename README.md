@@ -788,7 +788,7 @@
 - [thirdlayerinc/autoagent](https://github.com/thirdlayerinc/autoagent) - autonomous harness engineering
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
-- [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 139-tool MCP server for real-time global intelligence from free public APIs: markets, SEC filings, conflict, military, aircraft-cohort early warning, refugee and migration flows, cyber, climate, news,
+- [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and borde
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [IgorWarzocha/Opencode-Workflows](https://github.com/IgorWarzocha/Opencode-Workflows) - An ever evolving repository of Opencode workflow examples that might enhance your experience with it. I only left the stuff that actually works. YMMV.
 - [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - The agent that turns websites into APIs!
@@ -1343,7 +1343,7 @@
 - [mw10013/tanstack-cloudflare-effect-shopify-app](https://github.com/mw10013/tanstack-cloudflare-effect-shopify-app) - Port of the Shopify App Template to TanStack Start + Cloudflare Workers + Effect v4.
 - [cevr/gent](https://github.com/cevr/gent) - A gentle giant for agentic work. Minimal harness, maximal leverage.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 - [cloudflare/templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
@@ -1518,7 +1518,7 @@
 - [brandonbryant12/effect-template](https://github.com/brandonbryant12/effect-template) - 
 - [effect-native/effect-native](https://github.com/effect-native/effect-native) - 
 - [kitlangton/effect-solutions](https://github.com/kitlangton/effect-solutions) - A guide to writing idiomatic Effect code.
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep) - Open Source Semantic Search for your AI Agent
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search

@@ -200,7 +200,7 @@
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Command-line launcher
 - [paulilaaso/bit](https://github.com/paulilaaso/bit) - CLI / TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying
 - [emprcl/runal](https://github.com/emprcl/runal) - a creative coding environment for the terminal :fireworks:
@@ -622,7 +622,6 @@
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [xinchen10/awesome-amqp](https://github.com/xinchen10/awesome-amqp) - A curated list of AMQP 1.0 resources
 - [nielsvoss/lean-pitfalls](https://github.com/nielsvoss/lean-pitfalls) - Documenting common pitfalls and footguns in Lean
-- [milisp/awesome-gpt-oss](https://github.com/milisp/awesome-gpt-oss) - A curated list of awesome GPT-OSS resources, tools, tutorials, and projects
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [haizelabs/Awesome-LLM-Judges](https://github.com/haizelabs/Awesome-LLM-Judges) - ⚖️ Awesome LLM Judges ⚖️
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
@@ -1251,6 +1250,7 @@
 
 ## TypeScript 
 
+- [doeixd/effect-email](https://github.com/doeixd/effect-email) - Effect-native transactional email for TypeScript: typed messages, durable delivery, providers, policies, SMTP, HTTP gateway, and workflows.
 - [rjdellecese/effect-units](https://github.com/rjdellecese/effect-units) - Typed quantities and unit conversions for Effect
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
@@ -1397,7 +1397,7 @@
 - [OperationalFallacy/biome-effect-linting-rules](https://github.com/OperationalFallacy/biome-effect-linting-rules) - This is a collection of opinionated linting rules (in Biomejs) for Effect-ts projects
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [mpsuesser/effect-autoagent](https://github.com/mpsuesser/effect-autoagent) - Framework for building, optimizing, and deploying AI agents as Effect services. Define an agent as a declarative blueprint. Run it against benchmarks.
-- [deathbyknowledge/gsv](https://github.com/deathbyknowledge/gsv) - Personal AI computer / distributed OS across all your devices.
+- [deathbyknowledge/gsv](https://github.com/deathbyknowledge/gsv) - The personal assistant from the future.
 - [fiberplane/otter](https://github.com/fiberplane/otter) - 
 - [fiberplane/darlings](https://github.com/fiberplane/darlings) - Optimize your darlings
 - [relsunkaev/effect-qb](https://github.com/relsunkaev/effect-qb) - 

@@ -639,6 +639,7 @@
 
 ## ai-agents 
 
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions s
 - [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
 - [daftAI2026/awesome-jev](https://github.com/daftAI2026/awesome-jev) - Curated TypeSafe Jev / System One GitHub projects, open-source alternatives, and Jev news
 - [doeixd/foldkit-plus](https://github.com/doeixd/foldkit-plus) - Foldkit Plus: packages for Foldkit apps. Server data (Remote), local-first sync, routing (Site), SSR, forms, CRUD, a CMS, rich text, a page builder, and AI agents over MCP and WebMCP.
@@ -851,6 +852,7 @@
 
 ## automation 
 
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions s
 - [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.
@@ -1295,6 +1297,7 @@
 
 ## cli 
 
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions s
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [ragamo/herdr-flock](https://github.com/ragamo/herdr-flock) - A herdr plugin that visualizes your AI coding agents as pixel-art sheep living on a top-down farm.
 - [deepfates/cantrip](https://github.com/deepfates/cantrip) - the extensible, customizable, self-documenting, real-time multi-agent computing environment
@@ -1735,7 +1738,7 @@
 - [mjrlowe/terminal_images](https://github.com/mjrlowe/terminal_images) - A Deno module and CLI tool for printing images to the console. 🖼️
 - [load1n9/caviar](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
 - [retraigo/monke](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [retraigo/bettermap](https://github.com/retraigo/bettermap) - An extension of the Map class with more Array-like features.
 
 ## deployment 
@@ -2410,7 +2413,7 @@
 ## image-processing 
 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 
 ## instagram 
 
@@ -2566,7 +2569,7 @@
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [retraigo/monke](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -2903,6 +2906,7 @@
 
 ## macos 
 
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions s
 - [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [jfarcand/mirroir-mcp](https://github.com/jfarcand/mirroir-mcp) - MCP server for controlling a real iPhone via macOS iPhone Mirroring...and any MacOs app. Screenshot, tap, swipe, type — from any MCP client.
@@ -2994,6 +2998,7 @@
 
 ## mcp 
 
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions s
 - [doeixd/foldkit-plus](https://github.com/doeixd/foldkit-plus) - Foldkit Plus: packages for Foldkit apps. Server data (Remote), local-first sync, routing (Site), SSR, forms, CRUD, a CMS, rich text, a page builder, and AI agents over MCP and WebMCP.
 - [jfarcand/mirroir-mcp](https://github.com/jfarcand/mirroir-mcp) - MCP server for controlling a real iPhone via macOS iPhone Mirroring...and any MacOs app. Screenshot, tap, swipe, type — from any MCP client.
 - [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use) - 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
@@ -3357,7 +3362,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bugthesystem/scientist.js](https://github.com/bugthesystem/scientist.js) - :microscope:  A JavaScript interpretation of the Ruby library Scientist, a library for carefully refactoring critical paths.
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
@@ -4868,6 +4873,7 @@
 
 ## rust 
 
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions s
 - [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer + git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages
@@ -5042,7 +5048,7 @@
 - [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - ✨ AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud
 - [ran-isenberg/aws-lambda-handler-cookbook](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) - This repository provides a working, deployable, open source-based, serverless service blueprint with an AWS Lambda function and AWS CDK Python code with all the best practices and a complete CI/CD pip
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 
 ## shell 
@@ -5638,7 +5644,7 @@
 - [dimikot/fast-typescript-memoize](https://github.com/dimikot/fast-typescript-memoize) - Fast memoization decorator and other helpers with 1st class support for Promises.
 - [load1n9/caviar](https://github.com/load1n9/caviar) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
 - [retraigo/monke](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
-- [matmen/ImageScript](https://github.com/matmen/ImageScript) - Pure TypeScript image processing that runs everywhere
+- [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [retraigo/bettermap](https://github.com/retraigo/bettermap) - An extension of the Map class with more Array-like features.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.

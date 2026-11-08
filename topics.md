@@ -267,6 +267,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -447,7 +448,6 @@
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
 - [r-muresan/screen.vision](https://github.com/r-muresan/screen.vision) - Get a guided tour for anything, right on your screen.
 - [ncounterspecialist/twick](https://github.com/ncounterspecialist/twick) - AI-powered video editor SDK built with React. Features canvas timeline, drag-and-drop editing, AI captions, and serverless MP4 export. Perfect for building custom video apps.
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
@@ -676,7 +676,6 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
 - [r-muresan/screen.vision](https://github.com/r-muresan/screen.vision) - Get a guided tour for anything, right on your screen.
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -1208,7 +1207,6 @@
 - [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and borde
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [arach/spectator](https://github.com/arach/spectator) - 
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
@@ -1267,7 +1265,6 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
@@ -1319,7 +1316,6 @@
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
 - [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [nostacks/ekphos](https://github.com/nostacks/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
@@ -3031,7 +3027,6 @@
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and borde
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
@@ -3740,6 +3735,7 @@
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [EduSantosBrito/ship-cli](https://github.com/EduSantosBrito/ship-cli) - Linear + jj workflow CLI for AI coding agents
 - [vibeforge1111/vibeship-spawner-skills](https://github.com/vibeforge1111/vibeship-spawner-skills) - a skill directory for world-class specialized agents, in your terminal / IDE. more sophisticated than skills with just md files. and they're free.
+- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.
 - [dpshde/jj-opencode](https://github.com/dpshde/jj-opencode) - OpenCode plugin enforcing JJ define-before-implement workflow
 - [JRedeker/opencode-morph-fast-apply](https://github.com/JRedeker/opencode-morph-fast-apply) - OpenCode plugin for Morph Fast Apply - 10x faster code editing with lazy edit markers. No MCP server needed.
 - [BowTiedSwan/buildflow](https://github.com/BowTiedSwan/buildflow) - Turn interesting links into working code. Browser extension + Telegram bot that sends URLs to OpenCode for automated research and implementation.
@@ -3997,7 +3993,6 @@
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [Modern-Prometheus-AI/AdaptiveModularNetwork](https://github.com/Modern-Prometheus-AI/AdaptiveModularNetwork) - Adaptive Modular Network (AMN) a potentially novel machine learning architecture capable of producing models which can learn at inference, self improve, and perceive time.
 - [Modern-Prometheus-AI/Neuroca](https://github.com/Modern-Prometheus-AI/Neuroca) - A sophisticated biologically inspired memory system for AI agents. Provides organic, high quality, persistent memory with self-maintenance strategies.
-- [justinlietz93/Apex-CodeGenesis](https://github.com/justinlietz93/Apex-CodeGenesis) - Apex: An advanced autonomous coding agent for VS Code featuring total autonomy modes, recursive chain-of-thought reasoning, council-of-critics self-critique, persistent memory, dynamic personas, and e
 - [anomalyco/opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js) - 
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [benjamin-kraatz/effect-rpc](https://github.com/benjamin-kraatz/effect-rpc) - Type-safe, ergonomic, and framework-agnostic RPC for full-stack Effect apps. Call backend functions from the frontend—no fetch, no boilerplate, just composable effects and end-to-end type safety.
@@ -4213,8 +4208,6 @@
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
-- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [AutoCodeRoverSG/auto-code-rover](https://github.com/AutoCodeRoverSG/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with ea
 - [yoheinakajima/mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
 - [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
@@ -4304,7 +4297,6 @@
 - [13point5/gemini-cursor](https://github.com/13point5/gemini-cursor) - An AI cursor for desktop using Gemini 2.0 Flash (Experimental)
 - [comfyanonymous/ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
-- [eclipse-glsp/glsp](https://github.com/eclipse-glsp/glsp) - Graphical language server platform for building web-based diagram editors
 - [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - Give Cursor Agent an AI Team and Advanced Skills
 - [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
 - [signalwire/digital_employees](https://github.com/signalwire/digital_employees) - 
@@ -4868,7 +4860,6 @@
 
 ## reverse-engineering 
 
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Reverse engineer any website into a typed API client. Works with Claude Code, Codex, Cursor and OpenCode.
 - [sim642/whatpulse](https://github.com/sim642/whatpulse) - WhatPulse reverse engineered
 
 ## robotics 
@@ -5756,6 +5747,27 @@
 
 - [leonitousconforti/the-wireguard-effect](https://github.com/leonitousconforti/the-wireguard-effect) - Cross platform wireguard api client for nodejs built on wireguard-go with effect-ts
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+
+## vscode 
+
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
+- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform
+- [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs) - Blazingly fast terminal recorder that generates animated gif images for the web written in rust
+- [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
+- [justinlietz93/Apex-CodeGenesis](https://github.com/justinlietz93/Apex-CodeGenesis) - Apex: An advanced autonomous coding agent for VS Code featuring total autonomy modes, recursive chain-of-thought reasoning, council-of-critics self-critique, persistent memory, dynamic personas, and e
+- [DollhouseMCP/mcp-server](https://github.com/DollhouseMCP/mcp-server) - A Free, Open Source MCP server for dynamic custom persona management with public a GitHub collection of personas, skills, templates, and other elements for AI models.
+- [TomasHubelbauer/bun-mcp](https://github.com/TomasHubelbauer/bun-mcp) - A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and m
+- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+- [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
+- [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
+- [eclipse-glsp/glsp](https://github.com/eclipse-glsp/glsp) - Graphical language server platform for building web-based diagram editors
 
 ## vue 
 

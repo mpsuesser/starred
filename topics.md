@@ -312,7 +312,7 @@
 - [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
 - [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The browser built for your agents!
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [Lommix/blitzdenk_prototype](https://github.com/Lommix/blitzdenk_prototype) - A powerful multi provider coding agent, built for the terminal in rust.
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
@@ -611,7 +611,7 @@
 - [thepersonalaicompany/amurex](https://github.com/thepersonalaicompany/amurex) - World's first AI meeting copilot → The Invisible Companion for Work + Life
 - [wisent-ai/ster](https://github.com/wisent-ai/ster) - 
 - [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Open Source LLM Gateway 🦚
-- [udecode/dotai](https://github.com/udecode/dotai) - Skills for agents.
+- [udecode/ustack](https://github.com/udecode/ustack) - Skills for agents.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
@@ -733,7 +733,7 @@
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this rep
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The browser built for your agents!
 - [ruvnet/sublinear-time-solver](https://github.com/ruvnet/sublinear-time-solver) - Rust + WASM sublinear-time solver for asymmetric diagonally dominant systems. Exposes Neumann series, push, and hybrid random-walk algorithms with npm/npx CLI and Flow-Nexus HTTP streaming for swarm c
 - [BjornMelin/tripsage-ai](https://github.com/BjornMelin/tripsage-ai) - AI-powered travel planning and itinerary optimization with Next.js 16, Vercel AI SDK v7, Supabase/pgvector, and Upstash Redis/QStash.
 - [BjornMelin/vector-vault](https://github.com/BjornMelin/vector-vault) - ⚡ Instantly index, deduplicate, and search your code, docs, and web content in a blazing-fast Qdrant vector DB for AI & RAG.
@@ -919,7 +919,7 @@
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [RageAgainstThePixel/unity-cli](https://github.com/RageAgainstThePixel/unity-cli) - An all-in-one command line utility for the Unity Game Engine
 - [nemmtor/ts-databuilders](https://github.com/nemmtor/ts-databuilders) - Generator for TypeScript DataBuilders
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The browser built for your agents!
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [aeonfun/opendia](https://github.com/aeonfun/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
@@ -1267,7 +1267,7 @@
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The browser built for your agents!
 - [ccmdi/osintbench](https://github.com/ccmdi/osintbench) - OSINT benchmark for language models
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
@@ -1344,7 +1344,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers an
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
-- [udecode/dotai](https://github.com/udecode/dotai) - Skills for agents.
+- [udecode/ustack](https://github.com/udecode/ustack) - Skills for agents.
 
 ## claude-skills 
 
@@ -2761,7 +2761,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [XimilalaXiang/DeLive](https://github.com/XimilalaXiang/DeLive) - System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summary/chat/mindmap, Open API, MCP server, and Agent Skill.
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The browser built for your agents!
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [durdraw/durdraw](https://github.com/durdraw/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 - [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
@@ -2821,7 +2821,7 @@
 - [JirkaKlimes/jit-implementation](https://github.com/JirkaKlimes/jit-implementation) - Runtime LLM codegen, with tests and caching. This is a parody, not a recommendation.
 - [NeaByteLab/Ollama-Native](https://github.com/NeaByteLab/Ollama-Native) - TypeScript client library for Ollama API with retry logic, timeout management, error handling, and validation.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The browser built for your agents!
 - [jambudipa/dynamic-flow](https://github.com/jambudipa/dynamic-flow) - Generate complete LLM execution graphs at runtime
 - [pmndrs/prai](https://github.com/pmndrs/prai) - JS Framework for building step-by-step LLM instructions
 - [haizelabs/verdict](https://github.com/haizelabs/verdict) - Inference-time scaling for LLMs-as-a-judge.
@@ -3001,7 +3001,6 @@
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 - [kitlangton/scrawl](https://github.com/kitlangton/scrawl) - Show an agent a problem: mark up, record, send
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
-- [jfarcand/mirroir-mcp](https://github.com/jfarcand/mirroir-mcp) - Let your agent use your real iPhone: errands across your apps, automations, even games. Works from any MCP client through macOS iPhone Mirroring. No Developer Mode, no Xcode, no jailbreak.
 - [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use) - 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - Archived: legacy Swift Hex app. New app and source: github.com/anomalyco/hex
@@ -3014,7 +3013,7 @@
 - [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The browser built for your agents!
 - [bendews/apw](https://github.com/bendews/apw) - A CLI for Apple Passwords (also known as iCloud Keychain)
 - [ungive/media-control](https://github.com/ungive/media-control) - Control and observe media playback from the command line
 - [sandydoo/flux](https://github.com/sandydoo/flux) - An open-source tribute to the macOS Drift screensaver
@@ -3129,7 +3128,7 @@
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
 - [seanwessmith/bun-mcp](https://github.com/seanwessmith/bun-mcp) - MCP server for searching and reading official Bun documentation, built with Effect and published as bun-mcp2.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The browser built for your agents!
 - [ruvnet/sublinear-time-solver](https://github.com/ruvnet/sublinear-time-solver) - Rust + WASM sublinear-time solver for asymmetric diagonally dominant systems. Exposes Neumann series, push, and hybrid random-walk algorithms with npm/npx CLI and Flow-Nexus HTTP streaming for swarm c
 - [7ossamfarid/mcp-mindmesh](https://github.com/7ossamfarid/mcp-mindmesh) - Claude 3.7 Swarm with Field Coherence: A Model Context Protocol (MCP) server that orchestrates multiple specialized Claude 3.7 Sonnet instances in a quantum-inspired swarm. It creates a field coherenc
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -5994,7 +5993,7 @@
 - [XimilalaXiang/DeLive](https://github.com/XimilalaXiang/DeLive) - System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summary/chat/mindmap, Open API, MCP server, and Agent Skill.
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The browser built for your agents!
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven techno
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
